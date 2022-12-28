@@ -20,7 +20,7 @@
             //檢查數量
             if (args.Length != 2)
             {
-                Console.WriteLine("NO");
+                Console.WriteLine("fault input");
                 System.Environment.Exit(1);
             }
 
